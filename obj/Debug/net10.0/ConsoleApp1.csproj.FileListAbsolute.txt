@@ -1,0 +1,14 @@
+/Users/reggierayjeangillesaquino/Desktop/Snake game/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1
+/Users/reggierayjeangillesaquino/Desktop/Snake game/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.deps.json
+/Users/reggierayjeangillesaquino/Desktop/Snake game/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json
+/Users/reggierayjeangillesaquino/Desktop/Snake game/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.dll
+/Users/reggierayjeangillesaquino/Desktop/Snake game/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.pdb
+/Users/reggierayjeangillesaquino/Desktop/Snake game/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reggierayjeangillesaquino/Desktop/Snake game/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/reggierayjeangillesaquino/Desktop/Snake game/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/Users/reggierayjeangillesaquino/Desktop/Snake game/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/reggierayjeangillesaquino/Desktop/Snake game/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.dll
+/Users/reggierayjeangillesaquino/Desktop/Snake game/ConsoleApp1/obj/Debug/net10.0/refint/ConsoleApp1.dll
+/Users/reggierayjeangillesaquino/Desktop/Snake game/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.pdb
+/Users/reggierayjeangillesaquino/Desktop/Snake game/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
+/Users/reggierayjeangillesaquino/Desktop/Snake game/ConsoleApp1/obj/Debug/net10.0/ref/ConsoleApp1.dll
